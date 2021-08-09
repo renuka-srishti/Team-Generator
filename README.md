@@ -1,4 +1,4 @@
-# This repository contains assignment given by Prof. David Crandall during the Elements of Artificial Intelligence Spring 2021 class.
+#### This repository contains assignment given by Prof. David Crandall during the Elements of Artificial Intelligence Spring 2021 class.
 # Team-Generator
 ----------
 # Choosing teams
